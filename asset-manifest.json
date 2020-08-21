@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/campus_management/static/css/main.908d2985.chunk.css",
+    "main.js": "/campus_management/static/js/main.6670e153.chunk.js",
+    "main.js.map": "/campus_management/static/js/main.6670e153.chunk.js.map",
+    "runtime-main.js": "/campus_management/static/js/runtime-main.56999ec3.js",
+    "runtime-main.js.map": "/campus_management/static/js/runtime-main.56999ec3.js.map",
+    "static/js/2.d92932c5.chunk.js": "/campus_management/static/js/2.d92932c5.chunk.js",
+    "static/js/2.d92932c5.chunk.js.map": "/campus_management/static/js/2.d92932c5.chunk.js.map",
+    "index.html": "/campus_management/index.html",
+    "precache-manifest.26738a3b7c56aa64ffc4aa39d223d3b4.js": "/campus_management/precache-manifest.26738a3b7c56aa64ffc4aa39d223d3b4.js",
+    "service-worker.js": "/campus_management/service-worker.js",
+    "static/css/main.908d2985.chunk.css.map": "/campus_management/static/css/main.908d2985.chunk.css.map",
+    "static/js/2.d92932c5.chunk.js.LICENSE.txt": "/campus_management/static/js/2.d92932c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56999ec3.js",
+    "static/js/2.d92932c5.chunk.js",
+    "static/css/main.908d2985.chunk.css",
+    "static/js/main.6670e153.chunk.js"
+  ]
+}
