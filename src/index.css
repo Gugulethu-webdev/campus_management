@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgba(19, 94, 94);
+}
+.nav-bar{
+
+  background-color:rgb(19, 94, 94);
+  text-align:center;
+  overflow: hidden;
+  width:auto;
+  
+}
+
+a{
+  color:rgb(255, 255, 255);
+  text-decoration:none;
+  padding:20px;
+  font-size: 50px;
+
+}
+
+a:hover{
+  background-color:rgb(30, 32, 30);
+  
+}
+.studentDetails{
+  width:400px;
+  height: 300px;
+  background-color:rgb(30, 32, 30);
+  margin:20px;
+  padding-left: px;;
+  border-radius: 10px;
+  color:#fff;
+}
+.lecturerDetails{
+  width:400px;
+  height: 300px;
+  background-color:rgb(30, 32, 30);
+  margin:20px;
+  padding-left: px;;
+  border-radius: 10px;
+  color:#fff;
+ 
+}
+.container{
+  display:grid;
+  grid-template-columns:repeat(4,auto);
+  
+}
+.detail{
+  padding:10px;
+  font-size: large;
+}
+span{
+  background-color: rgb(52, 153, 236);
+  color:black;
+  margin : 10px;
+  padding:3px;
+  border-radius: 7px;
+}
+.active{
+  background-color:red;
+}
+#email{
+  color:green;
+}
+#link{
+  font-size: large;
+  padding-left: 1px;
+  color:blue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
