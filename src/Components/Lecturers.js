@@ -9,7 +9,7 @@ var lecturerDetails =
         Surname : "Mtshali",
         Email_Address :"mtshaliamo@gmail.com",
         Date_of_Birith:"12/02/1994",
-        List_of_Degrees:"",
+        List_of_Degrees:"Applied Maths and Computer Science, Bsc Computer Science",
         First_Name:"Gugulethu",
         Full_Name:"Gugulethu Lwazi Mtshali"
 
@@ -19,8 +19,8 @@ var lecturerDetails =
         Surname : "Madonsela",
         Email_Address :"mjey@gmail.com",
         Date_of_Birith:"24/03/1994",
-        List_of_Degrees:"",
-        First_Name:"jabulani",
+        List_of_Degrees:"Applied Maths and Computer Science, Bsc Computer Science",
+        First_Name:"Jabulani",
         Full_Name:"Jabulani Mjey Madonsela"
 
     },
@@ -29,7 +29,7 @@ var lecturerDetails =
         Surname : "Selaisami",
         Email_Address :"jane@gmail.com",
         Date_of_Birith:"12/02/1990",
-        List_of_Degrees:"",
+        List_of_Degrees:"Applied Maths and Computer Science, Botanical Science",
         First_Name:"Pinini",
         Full_Name:"Pinini Jane Selaisami"
 
@@ -39,19 +39,19 @@ var lecturerDetails =
         Surname : "Mtshali",
         Email_Address :"g-man@gmail.com",
         Date_of_Birith:"21/09/1996",
-        List_of_Degrees:"",
+        List_of_Degrees:"Applied Maths and Computer Science, Botanical Science",
         First_Name:"Mxolisi",
         Full_Name:"Mxolisi Gorrila Mtshali"
 
     },
     {
-        Fornames:"Nomthandazo thandy",
+        Fornames:"Nomthandazo Thandy",
         Surname : "Zwane",
         Email_Address :"thandy@gmail.com",
         Date_of_Birith:"12/12/1969",
-        Degr:"",
-        First_Name:"Nomt",
-        Full_Name:"Thandazile Cynthia Mtshali"
+        List_of_Degrees:"BioChemistry, Botanical Science, Bsc Computer Science",
+        First_Name:"Nomthandazo",
+        Full_Name:"Nomthandazo Thandy Zwane"
 
     },
     {
@@ -59,69 +59,69 @@ var lecturerDetails =
         Surname : "Ndams",
         Email_Address :"skholiwe@gmail.com",
         Date_of_Birith:"12/01/1988",
-        List_of_Degrees:"",
+        List_of_Degrees:"BioChemistry, Botanical Science, Bsc Computer Science",
         First_Name:"Zakhele",
         Full_Name:"Zakhele Minenhle Ndamane"
 
     },
     {
-        Fornames:"Sanele Phelelane",
-        Surname : "Buthelezi",
-        Email_Address :"sanele@gmail.com",
+        Fornames:"Senamile Andy",
+        Surname : "Nkwanyana",
+        Email_Address :"andy@gmail.com",
         Date_of_Birith:"30/09/2000",
-        Degree_Link:"",
-        First_Name:"Sanele",
-        Full_Name:"Sanele Phelelane Buthelezi"
-
-    },
-    {
-        Fornames:"Senamile Magugwana",
-        Surname : "Buthelezi",
-        Email_Address :"sena@gmail.com",
-        Date_of_Birith:"13/01/2002",
-        Degree_Link:"",
+        List_of_Degrees:"BioChemistry, Botanical Science, Bsc Computer Science",
         First_Name:"Senamile",
-        Full_Name:"Senamile Magugwana buthelezi"
+        Full_Name:"Senamile Andy Nkwanyana"
 
     },
     {
-        Fornames:"Emihle Asiphe",
-        Surname : "Masondo",
-        Email_Address :"emi@gmail.com",
+        Fornames:"Andrew",
+        Surname : "Adams",
+        Email_Address :"andrew@gmail.com",
+        Date_of_Birith:"13/01/2002",
+        List_of_Degrees:"BioChemistry, Mechanical Science",
+        First_Name:"Andrew",
+        Full_Name:"Andrew Adamsa"
+
+    },
+    {
+        Fornames:"Pieter Mtshilibe",
+        Surname : "Genis",
+        Email_Address :"pieter@gmail.com",
         Date_of_Birith:"24/05/2001",
-        Degree_Link:"",
-        First_Name:"Emihle",
-        Full_Name:"Emihle Asiphe Masondo"
+        List_of_Degrees:"BioChemistry, Bsc Mathematics,  Mechanical Science, Physics Degree",
+        First_Name:"Pieter",
+        Full_Name:"Pieter Mtshilibe Genis"
 
     },
     {
-        Fornames:"Owami Tubulo",
-        Surname : "Maviso",
-        Email_Address :"owami@gmail.com",
-        Date_of_Birith:"20/09/2000",
-        Degree_Link:"",
-        First_Name:"Owami",
-        Full_Name:"Owami Tubulo Mavuso"
+        Fornames:"Star Ringo",
+        Surname : "Naidoo",
+        Email_Address :"star@gmail.com",
+        Date_of_Birith:"20/09/1994",
+        List_of_Degrees:"Bsc Mathematics, Mechanical Science, Physics Degree",
+        First_Name:"Star",
+        Full_Name:"Star Ringo Naidoo"
 
     },
     {
-        Fornames:"Nondumiso Fanelesbonge",
-        Surname : "Mtshali",
-        Email_Address :"ndumi@gmail.com",
+        Fornames:"James",
+        Surname : "Rubert",
+        Email_Address :"james@gmail.com",
         Date_of_Birith:"27/02/1991",
-        Degree_Link:"",
-        First_Name:"Nondumiso",
-        Full_Name:"Nondumiso Fanelesbonge"
+        List_of_Degrees:"Bsc Mathematics, Mechanical Science, Physics Degree",
+        First_Name:"James",
+        Full_Name:"James Rubert"
 
     },
     {
-        Fornames:"Ayanda Zama",
-        Surname : "Mtshali",
-        Email_Address :"zama@gmail.com",
+        Fornames:"Rassie Peter",
+        Surname : "Erasmus",
+        Email_Address :"rassie@gmail.com",
         Date_of_Birith:"12/12/1986",
-        Degree_Link:"",
-        First_Name:"Ayanda",
-        Full_Name:"Ayanda Zama Mtshali"
+        List_of_Degrees:"Bsc Mathematics , Mechanical Science, Physics Degree",
+        First_Name:"Rassie",
+        Full_Name:"Rassie Peter Erasmus"
 
     }
 ]
@@ -136,9 +136,9 @@ class Lecturers extends React.Component{
                       <div className = "lecturerDetails">
                          <div className = "detail"> <span>Forenames</span> : {item.Fornames}</div>
                          <div className = "detail"> <span>Surname</span> : {item.Surname}</div>
-                         <div className = "detail" id = "email"> <span>Email Address</span> : {item.Email_Address}</div>
+                         <div className = "detail" id = "email"> <span>Email Address </span> : {item.Email_Address}</div>
                          <div className = "detail"> <span>Date of Birth</span> : {item.Date_of_Birith}</div>
-                         <div className = "detail"><span> List of Degrees</span> : {item.Degree_Link}</div>
+                         <div className = "detail"><span> List of Degrees</span> : {item.List_of_Degrees}</div>
                          <div className = "detail"><span> Firstname</span> : {item.First_Name}</div>
                          <div className = "detail"><span> Fullname</span> : {item.Full_Name}</div>
                     </div>
